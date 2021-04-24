@@ -1,0 +1,4 @@
+C:\Users\johnj\AppData\Local\JetBrains\CLion2020.3\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/johnj/Desktop/CLionProjects/Tree-C++
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/johnj/Desktop/CLionProjects/Tree-C++/cmake-build-debug

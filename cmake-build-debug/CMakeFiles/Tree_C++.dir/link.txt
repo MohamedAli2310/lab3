@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Tree_C++.dir/main.cpp.o CMakeFiles/Tree_C++.dir/Tree.cpp.o CMakeFiles/Tree_C++.dir/test-Tree.cpp.o CMakeFiles/Tree_C++.dir/streams.cpp.o CMakeFiles/Tree_C++.dir/functions-Tree.cpp.o  -o Tree_C++.exe -Wl,--out-implib,libTree_C++.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
